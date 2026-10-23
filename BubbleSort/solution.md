@@ -1,0 +1,1 @@
+Bubble Sort ou em português Ordenação por Flutuação é um algoritmo de ordenação dos mais simples. Sua ideia está muito alinhada com seu nome, percorremos um conjunto de elementos diversas vezes, e a cada passagem o maior elemento do conjunto é movido até o fim da lista, como uma bolha flutuando até o topo.

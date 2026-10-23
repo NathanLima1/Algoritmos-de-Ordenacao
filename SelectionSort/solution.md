@@ -1,0 +1,1 @@
+O Selection Sort ou Ordenação por Seleção funciona ao percorrer todo o vetor e a cada iteração pegar o menor elemento do vetor e coloca-lo na primeira posição, passando na próxima iteração a colocar na segunda e assim em diante até que todos os elementos estejam na ordem correta.
